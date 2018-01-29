@@ -1,0 +1,44 @@
+body{
+    border: 10px solid red;
+    background: white;
+}
+#st1{
+    width:100px;
+    height:100px;
+}
+#st2{
+    width:100px;
+    height:100px;
+}
+
+h1{
+    text-align: center;
+}
+
+#pOne{
+    display:none;
+}
+#pTwo{
+    display:none;
+}
+#pThree{
+    display:none;
+}
+#pFour{
+    display:none;
+}
+#pFive{
+    display:none;
+}
+#pSix{
+    display:none; 
+}
+#pSeven{
+    display:none;
+}
+#pEight{
+    display:none;
+}
+#pNine{
+    display:none;
+}
